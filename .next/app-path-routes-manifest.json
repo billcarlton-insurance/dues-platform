@@ -1,0 +1,12 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/_global-error/page": "/_global-error",
+  "/api/body/route": "/api/body",
+  "/api/dashboard/route": "/api/dashboard",
+  "/api/import/route": "/api/import",
+  "/api/payment/route": "/api/payment",
+  "/favicon.ico/route": "/favicon.ico",
+  "/dashboard/page": "/dashboard",
+  "/import/page": "/import",
+  "/page": "/"
+}
