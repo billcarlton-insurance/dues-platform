@@ -1,0 +1,12 @@
+nohup: ignoring input
+
+> dues-platform@0.1.0 dev
+> next dev
+
+▲ Next.js 16.3.6 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://100.115.92.26:3000
+✓ Ready in 805ms
+✓ Running next.config.ts took 53ms
+
+ GET /import 200 in 929ms (next.js: 495ms, application-code: 433ms)
